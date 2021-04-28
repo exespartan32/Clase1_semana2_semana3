@@ -14,6 +14,7 @@ public class Ciudadano {
 	}
 	public void setDni(long dni) {
 		this.dni = dni;
+		
 	}
 
 }
